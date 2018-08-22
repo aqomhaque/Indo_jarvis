@@ -1,0 +1,55 @@
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\bin\Debug\SQLiteCRUD.exe
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\bin\Debug\SQLiteCRUD.pdb
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\bin\Debug\SQLiteCRUD.xml
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.karyawan.resources
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.Resources.resources
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.GenerateResource.Cache
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.exe
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.xml
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.pdb
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.MDIMenu.resources
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.ResolveComReference.cache
+D:\PROYEK\VB 2008\Proses\SQLiteCRUD\obj\Debug\SQLiteCRUD.cari_karyawan.resources
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.ResolveComReference.cache
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.exe
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.xml
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.pdb
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\bin\Debug\SQLiteCRUD.exe
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\bin\Debug\SQLiteCRUD.pdb
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\bin\Debug\SQLiteCRUD.xml
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.cari_karyawan.resources
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.karyawan.resources
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.MDIMenu.resources
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.Resources.resources
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.GenerateResource.Cache
+D:\PROYEK\VB 2008\Proses\Database SQLite\SQLiteCRUD\bin\Debug\System.Data.SQLite.xml
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.ResolveComReference.cache
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.exe
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.xml
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.pdb
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\bin\Debug\SQLiteCRUD.exe
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\bin\Debug\SQLiteCRUD.pdb
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\bin\Debug\SQLiteCRUD.xml
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\ResolveAssemblyReference.cache
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.cari_karyawan.resources
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.karyawan.resources
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.MDIMenu.resources
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.Resources.resources
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.GenerateResource.Cache
+E:\Fajar Skripsi\AQOM\SQLiteCRUD\bin\Debug\System.Data.SQLite.dll
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.ResolveComReference.cache
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.exe
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.xml
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.pdb
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\bin\Debug\SQLiteCRUD.exe
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\bin\Debug\SQLiteCRUD.pdb
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\bin\Debug\SQLiteCRUD.xml
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.cari_karyawan.resources
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.karyawan.resources
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.MDIMenu.resources
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.Resources.resources
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.GenerateResource.Cache
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbprojResolveAssemblyReference.cache
+D:\Skripsi\Project Skripsi Vb.Net\Indo_VoiceReco\SQLiteCRUD\SQLiteCRUD\obj\Debug\SQLiteCRUD.vbproj.CoreCompileInputs.cache
